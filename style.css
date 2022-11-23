@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+  color: #222;
+}
+
+h2 {
+  font-size: 25px;
+  color: aquamarine;
+}
+
+p {
+  font-size: 18px;
+  color: red;
+}
